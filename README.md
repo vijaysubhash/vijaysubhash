@@ -1,13 +1,13 @@
 <!---
-Zameel-Byte/Zameel-Byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vijaysubhash/vijaysubhash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Visitor Count](https://profile-counter.glitch.me/Zameel-Byte/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vijaysubhash/count.svg)
 <div style="text-align: right">
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
-# Hi there, I'm Zameel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Vijay <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
-<a href="https://twitter.com/ZameelAliMoham3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zameel-ali-mohammed-055a86204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/Zameelalimohammed"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:zameelalimohammed282003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/polisetti_vijay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/polisetti-vijay-subhash-597b64211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.reddit.com/user/VijaySubhash07"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="mailto:polisettisubhash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.gg/MQdZjy68tb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br><br>
@@ -47,11 +47,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Github stats
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Zameel-Byte&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=vijaysubhash&show_icons=true)
 
 ## Languages used
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Zameel-Byte)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/vijaysubhash)
 
 ## Contributors Badge
 
