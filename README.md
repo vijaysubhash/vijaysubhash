@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
+- 🥅 2023 Goals: Contribute more to Open Source projects and learn AI as much as I can
 - ⚡ Fun fact: I love to play games
--     I'm currently focusing on developing Data Science skills.
+-     I'm currently focusing on developing Data Analytical skills.
 <br>
 ----
 <br>
